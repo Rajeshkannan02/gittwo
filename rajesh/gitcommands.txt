@@ -1,0 +1,21 @@
+Git commands:
+  1)cmt-> git(check git is installed properly)
+  2)git config --global user.name "Rajeshkannan02"(username)
+  3)git config --global user.email "rajeshkannan292002@gmail.com"(email)
+  4)git clone(to paste repository link ->open vs code terminal)
+  5)To add system file into git
+      git->status(Shows untracked files)( <-working folder)
+      git add file_name (to tracked file)(working folder)
+      git commit -m "commit message" (to change working folder to git copy folder)
+      git push origin main(from git copy folder to main folder)
+ 6)To add git file into system
+      git pull file name
+ 7)git init(to change git file)
+ 8)git add .(to tracked all modify files)
+ 9)To create repository from vs code
+     git remote add (repo link)
+ 10) git branch -a(to check  branches)
+ 11)git checkout (branch_name) to change branch
+     
+
+      
